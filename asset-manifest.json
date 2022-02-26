@@ -1,20 +1,19 @@
 {
   "files": {
     "main.css": "/react-wordle/static/css/main.8fdf24d1.css",
-    "main.js": "/react-wordle/static/js/main.f1ec8836.js",
+    "main.js": "/react-wordle/static/js/main.c5c1fcdc.js",
     "static/js/787.c699e743.chunk.js": "/react-wordle/static/js/787.c699e743.chunk.js",
     "index.html": "/react-wordle/index.html",
     "static/media/vowel-orange.svg": "/react-wordle/static/media/vowel-orange.c897ccf4b3306931fb29.svg",
     "static/media/vowel-green.svg": "/react-wordle/static/media/vowel-green.a882bbb54c563721cabe.svg",
     "static/media/consonant-orange.svg": "/react-wordle/static/media/consonant-orange.0b17712b0df2de48ffaa.svg",
     "static/media/consonant-green.svg": "/react-wordle/static/media/consonant-green.e1a329f1ffe7289f2787.svg",
-    "static/media/getFetch.cjs": "/react-wordle/static/media/getFetch.c780682470504fffbd04.cjs",
     "main.8fdf24d1.css.map": "/react-wordle/static/css/main.8fdf24d1.css.map",
-    "main.f1ec8836.js.map": "/react-wordle/static/js/main.f1ec8836.js.map",
+    "main.c5c1fcdc.js.map": "/react-wordle/static/js/main.c5c1fcdc.js.map",
     "787.c699e743.chunk.js.map": "/react-wordle/static/js/787.c699e743.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8fdf24d1.css",
-    "static/js/main.f1ec8836.js"
+    "static/js/main.c5c1fcdc.js"
   ]
 }
